@@ -1,0 +1,120 @@
+LIGO Laboratory, California Institute of Technology, Pasadena, CA 91125, USA
+OzGrav, School of Physics & Astronomy, Monash University, Clayton 3800, Victoria, Australia
+The Pennsylvania State University, University Park, PA 16802, USA
+University of Wisconsin-Milwaukee, Milwaukee, WI 53201, USA
+Louisiana State University, Baton Rouge, LA 70803, USA
+OzGrav, Australian National University, Canberra, Australian Capital Territory 0200, Australia
+Max Planck Institute for Gravitational Physics (Albert Einstein Institute) Hannover, D-30167 Hannover, Germany
+Leibniz Universit¨at Hannover, D-30167 Hannover, Germany
+Inter-University Centre for Astronomy and Astrophysics, Pune 411007, India
+University of Cambridge, Cambridge CB2 1TN, United Kingdom
+Instituto Nacional de Pesquisas Espaciais, 12227-010 Sao Jose dos Campos, Sao Paulo, Brazil
+Cardiff University, Cardiff CF24 3AA, United Kingdom
+International Centre for Theoretical Sciences, Tata Institute of Fundamental Research, Bengaluru 560089, India
+SUPA, University of Glasgow, Glasgow G12 8QQ, United Kingdom
+Embry-Riddle Aeronautical University, Prescott, AZ 86301, USA
+American University, Washington, D.C. 20016, USA
+California State University Fullerton, Fullerton, CA 92831, USA
+Georgia Institute of Technology, Atlanta, GA 30332, USA
+Chennai Mathematical Institute, Chennai 603103, India
+Royal Holloway, University of London, London TW20 0EX, United Kingdom
+LIGO Livingston Observatory, Livingston, LA 70754, USA
+King’s College London, University of London, London WC2R 2LS, United Kingdom
+Korea Institute of Science and Technology Information, Daejeon 34141, Republic of Korea
+Kenyon College, Gambier, OH 43022, USA
+University of Oregon, Eugene, OR 97403, USA
+Syracuse University, Syracuse, NY 13244, USA
+Northwestern University, Evanston, IL 60208, USA
+LIGO Hanford Observatory, Richland, WA 99352, USA
+LIGO Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+University of Florida, Gainesville, FL 32611, USA
+Stanford University, Stanford, CA 94305, USA
+Montana State University, Bozeman, MT 59717, USA
+Institute for Plasma Research, Bhat, Gandhinagar 382428, India
+OzGrav, University of Adelaide, Adelaide, South Australia 5005, Australia
+University of Minnesota, Minneapolis, MN 55455, USA
+Universit¨at Hamburg, D-22761 Hamburg, Germany
+SUPA, University of Strathclyde, Glasgow G1 1XQ, United Kingdom
+IAC3–IEEC, Universitat de les Illes Balears, E-07122 Palma de Mallorca, Spain
+OzGrav, University of Western Australia, Crawley, Western Australia 6009, Australia
+RRCAT, Indore, Madhya Pradesh 452013, India
+Missouri University of Science and Technology, Rolla, MO 65409, USA
+Lomonosov Moscow State University, Moscow 119991, Russia
+Bar-Ilan University, Ramat Gan, 5290002, Israel
+Indian Institute of Technology Bombay, Powai, Mumbai 400076, India
+Christopher Newport University, Newport News, VA 23606, USA
+University of Birmingham, Birmingham B15 2TT, United Kingdom
+University of Maryland, College Park, MD 20742, USA
+Max Planck Institute for Gravitational Physics (Albert Einstein Institute) Potsdam, D-14476 Potsdam, Germany
+University of Portsmouth, Portsmouth, PO1 3FX, United Kingdom
+IGFAE, Universidade de Santiago de Compostela, 15782, Spain
+Stony Brook University, Stony Brook, NY 11794, USA
+NASA Goddard Space Flight Center, Greenbelt, MD 20771, USA
+University of Tokyo, Tokyo, 113-0033, Japan
+Texas A&M University, College Station, TX 77843, USA
+OzGrav, University of Melbourne, Parkville, Victoria 3010, Australia
+University of Sannio at Benevento, I-82100 Benevento, Napoli, Italy
+Rochester Institute of Technology, Rochester, NY 14623, USA
+National Tsing Hua University, Hsinchu City, 30013 Taiwan, Republic of China
+The Chinese University of Hong Kong, Shatin, NT, Hong Kong
+OzGrav, Charles Sturt University, Wagga Wagga, New South Wales 2678, Australia
+CaRT, California Institute of Technology, Pasadena, CA 91125, USA
+OzGrav, Swinburne University of Technology, Hawthorn VIC 3122, Australia
+Universit´e Libre de Bruxelles, Brussels 1050, Belgium
+Texas Tech University, Lubbock, TX 79409, USA
+University of British Columbia, Vancouver, BC V6T 1Z4, Canada
+Columbia University, New York, NY 10027, USA
+University of Rhode Island, Kingston, RI 02881, USA
+The University of Texas Rio Grande Valley, Brownsville, TX 78520, USA
+Bellevue College, Bellevue, WA 98007, USA
+Eotvos University, Budapest 1117, Hungary
+Villanova University, Villanova, PA 19085, USA
+The University of Sheffield, Sheffield S10 2TN, United Kingdom
+The University of Utah, Salt Lake City, UT 84112, USA
+Carleton College, Northfield, MN 55057, USA
+University of Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland
+Perimeter Institute, Waterloo, ON N2L 2Y5, Canada
+University of Chicago, Chicago, IL 60637, USA
+Montclair State University, Montclair, NJ 07043, USA
+Colorado State University, Fort Collins, CO 80523, USA
+University of Texas, Austin, TX 78712, USA
+Vanderbilt University, Nashville, TN 37235, USA
+SUPA, University of the West of Scotland, Paisley PA1 2BE, United Kingdom
+University of Szeged, Dom ter 9, Szeged 6720, Hungary
+Queen Mary, University of London, London E1 4NS, United Kingdom
+The University of Mississippi, University, MS 38677, USA
+University of Michigan, Ann Arbor, MI 48109, USA
+University of California Berkeley, Berkeley, CA 94720, USA
+California State University, Los Angeles, CA 90032, USA
+Lancaster University, Lancaster LA1 4YW, United Kingdom
+Vrije Universiteit Amsterdam, 1081 HV, Amsterdam, Netherlands
+Rutherford Appleton Laboratory, Didcot OX11 0DE, United Kingdom
+Directorate of Construction, Services & Estate Management, Mumbai 400094, India
+University of Southampton, Southampton SO17 1BJ, United Kingdom
+University of Washington Bothell, Bothell, WA 98011, USA
+Institute of Applied Physics, Nizhny Novgorod, 603950, Russia
+Ewha Womans University, Seoul 03760, Republic of Korea
+Inje University Gimhae, South Gyeongsang 50834, Republic of Korea
+Sungkyunkwan University, Seoul 03063, Republic of Korea
+National Institute for Mathematical Sciences, Daejeon 34047, Republic of Korea
+Ulsan National Institute of Science and Technology, Ulsan 44919, Republic of Korea
+Bard College, Annandale-On-Hudson, NY 12504, USA
+Universit´e de Montr´eal/Polytechnique, Montreal, Quebec H3T 1J4, Canada
+Seoul National University, Seoul 08826, Republic of Korea
+NASA Marshall Space Flight Center, Huntsville, AL 35811, USA
+West Virginia University, Morgantown, WV 26506, USA
+Indian Institute of Technology Madras, Chennai 600036, India
+Indian Institute of Science Education and Research Kolkata, Mohanpur, West Bengal 741252, India
+Cornell University, Ithaca, NY 14850, USA
+Hobart and William Smith Colleges, Geneva, NY 14456, USA
+International Institute of Physics, Universidade Federal do Rio Grande do Norte, Natal RN, 59078-970, Brazil
+University of California Riverside, Riverside, CA 92521, USA
+University of Washington, Seattle, WA 98195, USA
+Marquette University, Milwaukee, WI 53233, USA
+Indian Institute of Technology Palaj, Gandhinagar, Gujarat 382355, India
+Indian Institute of Technology Hyderabad, Sangareddy, Telangana 502285, India
+Indian Institute of Science Education and Research, Pune, Maharashtra 411008, India
+Andrews University, Berrien Springs, MI 49104, USA
+Tata Institute of Fundamental Research, Mumbai 400005, India
+Concordia University Wisconsin, Mequon, WI 53097, USA
+Center for Computational Astrophysics, Flatiron Institute, 162 5th Ave, New York, NY 10010, USA

@@ -1,0 +1,120 @@
+,Institute,Latitude,Longtitude,City,Country,Groups/Labs
+0, California Institute of Technology,34.13701375,-118.1252882487961,Pasadena California, USA,2
+1, Monash University,-37.9136326,145.1318299,Melbourne, Australia,1
+2,The Pennsylvania State University,40.803448,-77.85442353315453,College Township Pennsylvania, USA,1
+3,University of Wisconsin-Milwaukee,43.0775181,-87.8812647,Milwaukee Wisconsin, USA,1
+4,Louisiana State University,30.4459596,-91.18738,Baton Rouge Louisiana, USA,1
+5, Australian National University,-35.28121335,149.11677886464528,North Canberra, Australia,1
+6,Max Planck Institute for Gravitational Physics (Albert Einstein Institute) Hannover,52.3918822,9.717448506507452,Hanover, Germany,1
+7,Leibniz Universit¨at Hannover,52.3918822,9.717448506507452,Hanover, Germany,1
+8,Inter-University Centre for Astronomy and Astrophysics,18.521428,73.8544541,Pune, India,1
+9,University of Cambridge,52.197584649999996,0.13915373736874398,Cambridge, United Kingdom,1
+10,Instituto Nacional de Pesquisas Espaciais,-23.20918605,-45.85996025017859,São José dos Campos, Brazil,1
+11,Cardiff University,51.4816546,-3.1791934,Cardiff, United Kingdom,1
+12, Tata Institute of Fundamental Research,13.146183383333332,77.51340622850348,Shivakote, India,1
+13, University of Glasgow,55.8713412,-4.2896538,Glasgow, United Kingdom,1
+14,Embry-Riddle Aeronautical University,34.5399962,-112.4687616,Prescott Arizona, USA,1
+15,American University,38.8950368,-77.0365427,Washington District of Columbia, USA,1
+16,California State University Fullerton,33.8708215,-117.9294165,Fullerton California, USA,1
+17,Georgia Institute of Technology,33.7489924,-84.3902644,Atlanta Georgia, USA,1
+18,Chennai Mathematical Institute,13.0503377,80.2299377,Chennai, India,1
+19,Royal Holloway University of London,51.4266213,-0.17547638638864702,London, United Kingdom,1
+20,LIGO Livingston Observatory,30.490775,-90.74506160124608,Livingston Louisiana, USA,1
+21,King’s College London,51.520219,-0.12985939246987815,London, United Kingdom,1
+22,Korea Institute of Science and Technology Information,36.3496,127.3848,Daejeon, Republic of Korea,1
+23,Kenyon College,40.375643,-82.3970994,Gambier Ohio, USA,1
+24,University of Oregon,44.0505054,-123.0950506,Eugene Oregon, USA,1
+25,Syracuse University,43.0355579,-76.14099681510547,Syracuse New York, USA,1
+26,Northwestern University,42.0447388,-87.6930459,Evanston Illinois, USA,1
+27,LIGO Hanford Observatory,46.2804298,-119.2752055,Richland Washington, USA,1
+28, Massachusetts Institute of Technology,42.3582393,-71.09663495185691,Cambridge Massachusetts, USA,1
+29,University of Florida,29.6519684,-82.3249846,Gainesville Florida, USA,1
+30,Stanford University,37.426540700000004,-122.17029258409187,Stanford California, USA,1
+31,Montana State University,45.6794293,-111.044047,Bozeman Montana, USA,1
+32,Institute for Plasma Research,23.1026771,72.6329349,Bhat, India,1
+33, University of Adelaide,-34.9189226,138.60423667410745,Adelaide, Australia,1
+34,University of Minnesota,44.9722438,-93.26822484758796,Minneapolis Minnesota, USA,1
+35,Universit¨at Hamburg,53.531075599999994,10.011913309675322,Hamburg, Germany,1
+36, University of Strathclyde,55.8618812,-4.241956565778082,Glasgow, United Kingdom,1
+37,IAC3–IEEC,39.5537713,2.7295611,Palma, Spain,1
+38, University of Western Australia,-31.95040445,115.79790157357621,Mount Claremont, Australia,1
+39,RRCAT,24.9772666,77.858262,Kadwaya, India,1
+40,Missouri University of Science and Technology,37.9509324,-91.7708076,Rolla Missouri, USA,1
+41,Lomonosov Moscow State University,55.7504461,37.6174943,Moscow, Russia,1
+42,Bar-Ilan University,32.0686867,34.8246812,Ramat Gan, Israel,1
+43,Indian Institute of Technology Bombay,19.1187195,72.9073476,Mumbai, India,1
+44,Christopher Newport University,37.0914429,-76.5213892,Maxwell Garden Virginia, USA,1
+45,University of Birmingham,52.4796992,-1.9026911,Birmingham, United Kingdom,1
+46,University of Maryland,38.99203005,-76.94610290199051,Adelphi Maryland, USA,1
+47,Max Planck Institute for Gravitational Physics (Albert Einstein Institute) Potsdam,52.4390035,13.015017279245283,Potsdam, Germany,1
+48,University of Portsmouth,50.8185413,-1.0808710664982244,Portsmouth, United Kingdom,1
+49,IGFAE,42.8786789,-8.54245040081301,Santiago de Compostela, Spain,1
+50,Stony Brook University,40.9191556,-73.1293464,Stony Brook New York, USA,1
+51,NASA Goddard Space Flight Center,39.004607,-76.8756838,Greenbelt Maryland, USA,1
+52,University of Tokyo,35.6828387,139.7594549,Chiyoda, Japan,1
+53,Texas A&M University,30.5955289,-96.3071042,College Station Texas, USA,1
+54, University of Melbourne,-37.8001204,144.9634789,Melbourne, Australia,1
+55,University of Sannio at Benevento,40.8358846,14.2487679,Naples, Italy,1
+56,Rochester Institute of Technology,43.157285,-77.615214,Rochester New York, USA,1
+57,National Tsing Hua University,24.81127,120.9693,Hsinchu, Republic of China,1
+58,The Chinese University of Hong Kong,22.39690375,114.20952710255952,Lok Lo Ha Village, Hong Kong,1
+59, Charles Sturt University,-35.0636071,147.3552234,Wagga Wagga City Council, Australia,1
+60, Swinburne University of Technology,-37.820558500000004,145.03857627268115,Melbourne, Australia,1
+61,Universit´e Libre de Bruxelles,50.8465573,4.351697,Brussels, Belgium,1
+62,Texas Tech University,33.5635206,-101.879336,Lubbock Texas, USA,1
+63,University of British Columbia,49.24384085,-123.12709478775174,Vancouver, Canada,1
+64,Columbia University,40.7830439,-73.9527658,New York New York, USA,1
+65,University of Rhode Island,41.4729285,-71.52234712149811,South Kingstown Rhode Island, USA,1
+66,The University of Texas Rio Grande Valley,25.9140256,-97.4890856,Brownsville Texas, USA,1
+67,Bellevue College,47.6144219,-122.192337,Bellevue Washington, USA,1
+68,Eotvos University,47.4979937,19.0403594,Budapest, Hungary,1
+69,Villanova University,40.038791,-75.3425221,Radnor Township Pennsylvania, USA,1
+70,The University of Sheffield,53.3806626,-1.4702278,Sheffield, United Kingdom,1
+71,The University of Utah,40.7596198,-111.8867975,Salt Lake City Utah, USA,1
+72,Carleton College,44.4582041,-93.161159,Northfield Minnesota, USA,1
+73,University of Zurich,47.3978349,8.5473329,Zurich, Switzerland,1
+74,Perimeter Institute,43.4652699,-80.5222961,Waterloo, Canada,1
+75,University of Chicago,41.8755616,-87.6244212,Chicago Illinois, USA,1
+76,Montclair State University,40.8164458,-74.2210643,Montclair New Jersey, USA,1
+77,Colorado State University,40.5559815,-105.07587251664262,Fort Collins Colorado, USA,1
+78,University of Texas,30.2711286,-97.7436995,Austin Texas, USA,1
+79,Vanderbilt University,36.1565461,-86.77474161400752,Nashville Tennessee, USA,1
+80, University of the West of Scotland,55.84342625,-4.430031145769734,Paisley, United Kingdom,1
+81,University of Szeged,46.2475214,20.1488601,Szeged, Hungary,1
+82,Queen Mary University of London,51.5276441,-0.10359892518182634,London, United Kingdom,1
+83,The University of Mississippi,34.3653695,-89.5350279,Oxford Mississippi, USA,1
+84,University of Michigan,42.2681569,-83.7312291,Ann Arbor Michigan, USA,1
+85,University of California Berkeley,37.87094645,-122.26639872292523,Berkeley California, USA,1
+86,California State University,34.0536909,-118.242766,Los Angeles California, USA,1
+87,Lancaster University,54.0484068,-2.7990345,Lancaster, United Kingdom,1
+88,Vrije Universiteit Amsterdam,52.3727598,4.8936041,Amsterdam, Netherlands,1
+89,Rutherford Appleton Laboratory,51.6121773,-1.2439778415871414,South Oxfordshire, United Kingdom,1
+90,Directorate of Construction,19.0759899,72.8773928,Mumbai, India,1
+91,University of Southampton,50.9025349,-1.404189,Southampton, United Kingdom,1
+92,University of Washington Bothell,47.77346325,-122.19721028094827,Bothell Washington, USA,1
+93,Institute of Applied Physics,56.3264816,44.0051395,Nizhny Novgorod, Russia,1
+94,Ewha Womans University,37.5666791,126.9782914,Seoul, Republic of Korea,1
+95,Inje University Gimhae,34.865741650000004,128.69657863616982,Geoje-si, Republic of Korea,1
+96,Sungkyunkwan University,37.5666791,126.9782914,Seoul, Republic of Korea,1
+97,National Institute for Mathematical Sciences,36.3496,127.3848,Daejeon, Republic of Korea,1
+98,Ulsan National Institute of Science and Technology,35.5391697,129.3119136,Ulsan, Republic of Korea,1
+99,Bard College,42.0128695,-73.9081901,Town of Red Hook New York, USA,1
+100,Universit´e de Montr´eal/Polytechnique,45.5031824,-73.5698065,Montreal, Canada,1
+101,Seoul National University,37.5666791,126.9782914,Seoul, Republic of Korea,1
+102,NASA Marshall Space Flight Center,34.729847,-86.5859011,Huntsville Alabama, USA,1
+103,West Virginia University,39.6296809,-79.9559437,Morgantown West Virginia, USA,1
+104,Indian Institute of Technology Madras,13.0836939,80.270186,Chennai, India,1
+105,Indian Institute of Science Education and Research Kolkata,22.9547908,88.5279413,Mohanpur, India,1
+106,Cornell University,42.4396039,-76.4968019,Ithaca New York, USA,1
+107,Hobart and William Smith Colleges,42.86548285,-76.98075684493965,City of Geneva New York, USA,1
+108,International Institute of Physics,-5.805398,-35.2080905,Natal, Brazil,1
+109,University of California Riverside,33.96370575,-117.33978065170642,Riverside California, USA,1
+110,University of Washington,47.6038321,-122.3300624,Seattle Washington, USA,1
+111,Marquette University,43.0349931,-87.922497,Milwaukee Wisconsin, USA,1
+112,Indian Institute of Technology Palaj,23.2219327,72.7287599,Gandhinagar, India,1
+113,Indian Institute of Technology Hyderabad,17.613422399999997,78.10216501452837,Sangareddy, India,1
+114,Indian Institute of Science Education and Research,18.521428,73.8544541,Pune, India,1
+115,Andrews University,41.9464336,-86.3388965,Berrien Springs Michigan, USA,1
+116,Tata Institute of Fundamental Research,18.9792365,72.8127667,Mumbai, India,1
+117,Concordia University Wisconsin,43.2219088,-87.9822969,Mequon Wisconsin, USA,1
+118,Center for Computational Astrophysics,40.7404832,-73.9905849,New York New York, USA,1
