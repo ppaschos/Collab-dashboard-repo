@@ -1,43 +1,43 @@
-,Lab,Institute,Latitude,Longtitude,Country
-0,LIGO Laboratory, California Institute of Technology,34.13701375,-118.1252882487961, USA
-1,OzGrav, Monash University,-37.9136326,145.1318299, Australia
+Unnamed: 0,Lab,Institute,Latitude,Longtitude,Country
+0,LIGO Laboratory,California Institute of Technology,34.13701375,-118.1252882487961, USA
+1,OzGrav,Monash University,-37.9136326,145.1318299, Australia
 2,Local Research Group,The Pennsylvania State University,40.803448,-77.85442353315453, USA
 3,Local Research Group,University of Wisconsin-Milwaukee,43.0775181,-87.8812647, USA
 4,Local Research Group,Louisiana State University,30.4459596,-91.18738, USA
-5,OzGrav, Australian National University,-35.28121335,149.11677886464528, Australia
+5,OzGrav,Australian National University,-35.28121335,149.11677886464528, Australia
 6,Local Research Group,Max Planck Institute for Gravitational Physics (Albert Einstein Institute) Hannover,52.3918822,9.717448506507452, Germany
 7,Local Research Group,Leibniz Universit¨at Hannover,52.3918822,9.717448506507452, Germany
 8,Local Research Group,Inter-University Centre for Astronomy and Astrophysics,18.521428,73.8544541, India
-9,Local Research Group,University of Cambridge,52.197584649999996,0.13915373736874398, United Kingdom
+9,Local Research Group,University of Cambridge,52.19758465,0.1391537373687439, United Kingdom
 10,Local Research Group,Instituto Nacional de Pesquisas Espaciais,-23.20918605,-45.85996025017859, Brazil
 11,Local Research Group,Cardiff University,51.4816546,-3.1791934, United Kingdom
-12,Local Research Group, Tata Institute of Fundamental Research,13.146183383333332,77.51340622850348, India
-13,Local Research Group, University of Glasgow,55.8713412,-4.2896538, United Kingdom
+12,Local Research Group,Tata Institute of Fundamental Research,13.146183383333332,77.51340622850348, India
+13,Local Research Group,University of Glasgow,55.8713412,-4.2896538, United Kingdom
 14,Local Research Group,Embry-Riddle Aeronautical University,34.5399962,-112.4687616, USA
 15,Local Research Group,American University,38.8950368,-77.0365427, USA
 16,Local Research Group,California State University Fullerton,33.8708215,-117.9294165, USA
 17,Local Research Group,Georgia Institute of Technology,33.7489924,-84.3902644, USA
 18,Local Research Group,Chennai Mathematical Institute,13.0503377,80.2299377, India
-19,Local Research Group,Royal Holloway University of London,51.4266213,-0.17547638638864702, United Kingdom
+19,Local Research Group,Royal Holloway University of London,51.4266213,-0.175476386388647, United Kingdom
 20,Local Research Group,LIGO Livingston Observatory,30.490775,-90.74506160124608, USA
-21,Local Research Group,King’s College London,51.520219,-0.12985939246987815, United Kingdom
+21,Local Research Group,King’s College London,51.520219,-0.1298593924698781, United Kingdom
 22,Local Research Group,Korea Institute of Science and Technology Information,36.3496,127.3848, Republic of Korea
 23,Local Research Group,Kenyon College,40.375643,-82.3970994, USA
 24,Local Research Group,University of Oregon,44.0505054,-123.0950506, USA
 25,Local Research Group,Syracuse University,43.0355579,-76.14099681510547, USA
 26,Local Research Group,Northwestern University,42.0447388,-87.6930459, USA
 27,Local Research Group,LIGO Hanford Observatory,46.2804298,-119.2752055, USA
-28,LIGO Laboratory, Massachusetts Institute of Technology,42.3582393,-71.09663495185691, USA
+28,LIGO Laboratory,Massachusetts Institute of Technology,42.3582393,-71.09663495185691, USA
 29,Local Research Group,University of Florida,29.6519684,-82.3249846, USA
-30,Local Research Group,Stanford University,37.426540700000004,-122.17029258409187, USA
+30,Local Research Group,Stanford University,37.4265407,-122.17029258409188, USA
 31,Local Research Group,Montana State University,45.6794293,-111.044047, USA
 32,Local Research Group,Institute for Plasma Research,23.1026771,72.6329349, India
-33,OzGrav, University of Adelaide,-34.9189226,138.60423667410745, Australia
+33,OzGrav,University of Adelaide,-34.9189226,138.60423667410743, Australia
 34,Local Research Group,University of Minnesota,44.9722438,-93.26822484758796, USA
-35,Local Research Group,Universit¨at Hamburg,53.531075599999994,10.011913309675322, Germany
-36,Local Research Group, University of Strathclyde,55.8618812,-4.241956565778082, United Kingdom
+35,Local Research Group,Universit¨at Hamburg,53.5310756,10.011913309675322, Germany
+36,Local Research Group,University of Strathclyde,55.8618812,-4.241956565778082, United Kingdom
 37,Local Research Group,IAC3–IEEC,39.5537713,2.7295611, Spain
-38,OzGrav, University of Western Australia,-31.95040445,115.79790157357621, Australia
+38,OzGrav,University of Western Australia,-31.95040445,115.7979015735762, Australia
 39,Local Research Group,RRCAT,24.9772666,77.858262, India
 40,Local Research Group,Missouri University of Science and Technology,37.9509324,-91.7708076, USA
 41,Local Research Group,Lomonosov Moscow State University,55.7504461,37.6174943, Russia
@@ -53,14 +53,14 @@
 51,Local Research Group,NASA Goddard Space Flight Center,39.004607,-76.8756838, USA
 52,Local Research Group,University of Tokyo,35.6828387,139.7594549, Japan
 53,Local Research Group,Texas A&M University,30.5955289,-96.3071042, USA
-54,OzGrav, University of Melbourne,-37.8001204,144.9634789, Australia
+54,OzGrav,University of Melbourne,-37.8001204,144.9634789, Australia
 55,Local Research Group,University of Sannio at Benevento,40.8358846,14.2487679, Italy
 56,Local Research Group,Rochester Institute of Technology,43.157285,-77.615214, USA
 57,Local Research Group,National Tsing Hua University,24.81127,120.9693, Republic of China
 58,Local Research Group,The Chinese University of Hong Kong,22.39690375,114.20952710255952, Hong Kong
-59,OzGrav, Charles Sturt University,-35.0636071,147.3552234, Australia
-60,CaRT, California Institute of Technology,34.13701375,-118.1252882487961, USA
-61,OzGrav, Swinburne University of Technology,-37.820558500000004,145.03857627268115, Australia
+59,OzGrav,Charles Sturt University,-35.0636071,147.3552234, Australia
+60,CaRT,California Institute of Technology,34.13701375,-118.1252882487961, USA
+61,OzGrav,Swinburne University of Technology,-37.8205585,145.03857627268115, Australia
 62,Local Research Group,Universit´e Libre de Bruxelles,50.8465573,4.351697, Belgium
 63,Local Research Group,Texas Tech University,33.5635206,-101.879336, USA
 64,Local Research Group,University of British Columbia,49.24384085,-123.12709478775174, Canada
@@ -80,19 +80,19 @@
 78,Local Research Group,Colorado State University,40.5559815,-105.07587251664262, USA
 79,Local Research Group,University of Texas,30.2711286,-97.7436995, USA
 80,Local Research Group,Vanderbilt University,36.1565461,-86.77474161400752, USA
-81,Local Research Group, University of the West of Scotland,55.84342625,-4.430031145769734, United Kingdom
+81,Local Research Group,University of the West of Scotland,55.84342625,-4.430031145769734, United Kingdom
 82,Local Research Group,University of Szeged,46.2475214,20.1488601, Hungary
-83,Local Research Group,Queen Mary University of London,51.5276441,-0.10359892518182634, United Kingdom
+83,Local Research Group,Queen Mary University of London,51.5276441,-0.1035989251818263, United Kingdom
 84,Local Research Group,The University of Mississippi,34.3653695,-89.5350279, USA
 85,Local Research Group,University of Michigan,42.2681569,-83.7312291, USA
-86,Local Research Group,University of California Berkeley,37.87094645,-122.26639872292523, USA
+86,Local Research Group,University of California Berkeley,37.87094645,-122.26639872292525, USA
 87,Local Research Group,California State University,34.0536909,-118.242766, USA
 88,Local Research Group,Lancaster University,54.0484068,-2.7990345, United Kingdom
 89,Local Research Group,Vrije Universiteit Amsterdam,52.3727598,4.8936041, Netherlands
 90,Local Research Group,Rutherford Appleton Laboratory,51.6121773,-1.2439778415871414, United Kingdom
 91,Local Research Group,Directorate of Construction,19.0759899,72.8773928, India
 92,Local Research Group,University of Southampton,50.9025349,-1.404189, United Kingdom
-93,Local Research Group,University of Washington Bothell,47.77346325,-122.19721028094827, USA
+93,Local Research Group,University of Washington Bothell,47.77346325,-122.19721028094828, USA
 94,Local Research Group,Institute of Applied Physics,56.3264816,44.0051395, Russia
 95,Local Research Group,Ewha Womans University,37.5666791,126.9782914, Republic of Korea
 96,Local Research Group,Inje University Gimhae,34.865741650000004,128.69657863616982, Republic of Korea

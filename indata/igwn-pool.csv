@@ -16,7 +16,7 @@ Engage_US_MWT2_uct2_condce_mcore,University of Chicago,41.7886,-87.59052371,Yes,
 Glow_US_Syracuse_condor-ce2,Syracuse University,42.0114373,-88.1279204,Yes,Uchicago
 Glow_US_Syracuse_condor-ce3,Syracuse University,42.0114373,-88.1279204,Yes,Uchicago
 Glow_US_Syracuse_condor-ce4,Syracuse University,42.0114373,-88.1279204,Yes,Uchicago
-Glow_US_UCSD_xcache_gpu,University of California San Diego,32.8801,-117.2340,No,local
+Glow_US_UCSD_xcache_gpu,University of California San Diego,32.8801,-117.234,No,local
 GLUEX_CA_ComputeCanada-Cedar,Compute Canada,49.2781,-122.9199,Yes,Uchicago
 GLUEX_CA_ComputeCanada-Cedar_gpu,Compute Canada,49.2781,-122.9199,Yes,Uchicago
 GLUEX_US_UConn-HPC_osgce,University of Connecticut,41.8084,-72.2495,Yes,UW Madison
@@ -30,8 +30,8 @@ LIGO_US_Caltech_ldas-grid,Caltech,34.137987,-118.124281,No,local
 LIGO_US_Caltech_ldas-grid_gpu,Caltech,34.137987,-118.124281,No,local
 LIGO_US_Caltech_ldas-grid-la,LIGO-Livingston,32.5843026,-88.1872474,No,local
 LIGO_US_Caltech_ldas-grid-la_gpu,LIGO-Livingston,32.5843026,-88.1872474,No,local
-LIGO_US_Caltech_ldas-grid-wa,LIGO-Hanford ,41.3160082,-91.7340327,No,local
-LIGO_US_Caltech_ldas-grid-wa_gpu,LIGO-Hanford ,41.3160082,-91.7340327,No,local
+LIGO_US_Caltech_ldas-grid-wa,LIGO-Hanford,41.3160082,-91.7340327,No,local
+LIGO_US_Caltech_ldas-grid-wa_gpu,LIGO-Hanford,41.3160082,-91.7340327,No,local
 LIGO_US_LSU-QB2-CE1,Louisiana State University,30.4132625,-91.182191,Yes,UW Madison
 LIGO_US_LSU_SuperMIC-CE1,Louisiana State University,30.4132625,-91.182191,Yes,UW Madison
 LIGO_US_PSU-LIGO,Pennsylvania State University,40.806956,-77.86281,Yes,UChicago
@@ -40,14 +40,14 @@ OSG_US_GATech_osg-sched2_gpu,Georgia Tech,33.7758,-84.3947,No,local
 OSG_US_ISI_osg,ISI-University of South California,33.9801,-118.44,Yes,UW Madison
 OSG_US_SLATE_US_UIUC_HTC_hosted-ce02,University of Illinois Urbana-Champaign,40.109647,-88.3,Yes,UChicago
 OSG_US_UWM-NEMO,University of Wisconsin Milwaukee,43.038902,-87.906471,Yes,UW Madison
-CLAS12_T3_UK_ScotGrid_GLA_ce04,ScotGrid ,55.9445,-3.1892,No,local
+CLAS12_T3_UK_ScotGrid_GLA_ce04,ScotGrid,55.9445,-3.1892,No,local
 DUNE_SurfSARA_arc01,SurfSARA,52.374,4.8897,No,local
 DUNE_SurfSARA_arc02,SurfSARA,52.374,4.8897,No,local
 DUNE_SurfSARA_arc03,SurfSARA,52.374,4.8897,No,local
 LIGO_UK_RAL_arc_ce01,Rutherford Appleton Laboratory,51.7095,-1.3613,No,local
 LIGO_UK_RAL_arc_ce02,Rutherford Appleton Laboratory,51.7095,-1.3613,No,local
 LIGO_UK_RAL_arc_ce03,Rutherford Appleton Laboratory,51.7095,-1.3613,No,local
-LIGO_UK_RAL_arc_ce04,Rutherford Appleton Laboratory ,51.7095,-1.3613,No,local
+LIGO_UK_RAL_arc_ce04,Rutherford Appleton Laboratory,51.7095,-1.3613,No,local
 LIGO_UK_RAL_arc_ce05,Rutherford Appleton Laboratory,51.7095,-1.3613,No,local
 UBoone_UK_Lancaster_HEC_grendel,University of Lancaster,54.0666,-2.8333,No,local
 VIRGO_NL_NIKHEF_brug,NIKHEF,52.3564,4.9508,No,local
@@ -56,19 +56,19 @@ VIRGO_NL_NIKHEF_dissel,NIKHEF,52.3564,4.9508,No,local
 VIRGO_NL_NIKHEF_dissel_multicore,NIKHEF,52.3564,4.9508,No,local
 VIRGO_T2_BE_UCL_ingrid,UC Louvain,50.666707,4.623733,No,local
 CMSHTPC_T1_IT_CNAF_condor_ce02,CNAF INFN,44.5,11.34,No,local
-CMSHTPC_T1_IT_CNAF_condor_ce03,CNAF INFN ,44.5,11.34,No,local
-CMSHTPC_T1_IT_CNAF_condor_ce04,CNAF INFN ,44.5,11.34,No,local
-CMSHTPC_T1_IT_CNAF_condor_ce05,CNAF INFN ,44.5,11.34,No,local
+CMSHTPC_T1_IT_CNAF_condor_ce03,CNAF INFN,44.5,11.34,No,local
+CMSHTPC_T1_IT_CNAF_condor_ce04,CNAF INFN,44.5,11.34,No,local
+CMSHTPC_T1_IT_CNAF_condor_ce05,CNAF INFN,44.5,11.34,No,local
 CMSHTPC_T1_IT_CNAF_condor_ce06,CNAF INFN,44.5,11.34,No,local
 DUNE_T1_ES_PIC_ce13-multicore,PIC-Port d'Informació Científica,41.5,2.11,No,local
 DUNE_T1_ES_PIC_ce14-multicore,PIC-Port d'Informació Científica,41.5,2.11,No,local
 HCC_US_BNL_gk02,Brookhaven National Lab,40.868386,-72.878366,No,local
-IGWN_TW_ASGC_twgrid-ce1,ASGC ,25.052787,121.33345,No,local
-LIGO_T1_FR_CCIN2P3_cccondorce01,CCIN2P3 ,45.7666,4.8833,No,local
+IGWN_TW_ASGC_twgrid-ce1,ASGC,25.052787,121.33345,No,local
+LIGO_T1_FR_CCIN2P3_cccondorce01,CCIN2P3,45.7666,4.8833,No,local
 LIGO_T1_FR_CCIN2P3_cccondorce02,CCIN2P3,45.7666,4.8833,No,local
 VIRGO_T1_ES_PIC_ce13-gpu,PIC-Port d'Informació Científica,41.5,2.11,No,local
 VIRGO_T1_ES_PIC_ce14-gpu,PIC-Port d'Informació Científica,41.5,2.11,No,local
-LIGO_ICTS_ALICE_HUMPTY,ICTS ,12.9716,77.5946,No,Uchicago
+LIGO_ICTS_ALICE_HUMPTY,ICTS,12.9716,77.5946,No,Uchicago
 LIGO_USdC_htcondor-ce01,Santiago de Compostela,42.8769893,-8.5615706,No,UW Madison
-LIGO_KR_KISTI,KISTI ,36.363729,127.360725,No,local
-LIGO_IUCAA_ldas-osg,IUCAA ,18.559302,73.825484,No,UW Madison
+LIGO_KR_KISTI,KISTI,36.363729,127.360725,No,local
+LIGO_IUCAA_ldas-osg,IUCAA,18.559302,73.825484,No,UW Madison
