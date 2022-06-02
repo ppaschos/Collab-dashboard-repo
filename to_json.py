@@ -71,6 +71,8 @@ def export_institutes():
 
     d = df_institutes.to_dict(orient="index")
 
+    d = {"igwn": d}  # TODO this should be parsable from the csv file
+
     with open("data/institutions.json", "w") as fp:
         json.dump(d, fp)
 
@@ -84,6 +86,8 @@ def export_sites():
     df = pd.merge(df_ces, df_aps, how="left", left_index=True, right_index=True)
 
     d = df.to_dict(orient="index")
+
+    d = {"igwn": d}  # TODO this should be parsable from the csv file
 
     with open("data/sites.json", "w") as fp:
         json.dump(d, fp)
