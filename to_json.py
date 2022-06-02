@@ -5,8 +5,8 @@ from collections import defaultdict
 
 # Points to csv snapshot of google sheets
 AP_FILE_PATH = "./files/IGWN_sites-APs.csv"
-CE_FILE_PATH = "./files/IGWN_sites-CE.csv"
-INSTITUTES_PATH = "./files/IGWN_sites-Institutions.csv"
+CE_FILE_PATH = "./indata/igwn-pool.csv"
+INSTITUTES_PATH = "./indata/igwn-sites-corrected.csv"
 
 
 def parse_ces() -> pd.DataFrame:
@@ -46,12 +46,30 @@ def parse_aps() -> pd.DataFrame:
     return df
 
 
+def parse_institutes():
+
+    df = pd.read_csv(INSTITUTES_PATH)
+
+    def f(x):
+        d = {
+            "labs": list(x["Lab"].unique()),
+            "latitude": x["Latitude"].unique()[0],
+            "longitude": x["Longtitude"].unique()[0],
+            "country": x["Country"].unique()[0]
+        }
+
+        return pd.Series(d)
+
+    df = df.groupby("Institute").apply(f)
+
+    return df
+
 def export_institutes():
     """Exports institutions JSON File"""  # TODO - This should be merged with the one above ( Update data )
 
-    df = pd.read_csv(INSTITUTES_PATH, index_col="Member Institution")
+    df_institutes = parse_institutes()
 
-    d = df.to_dict(orient="index")
+    d = df_institutes.to_dict(orient="index")
 
     with open("data/institutions.json", "w") as fp:
         json.dump(d, fp)
