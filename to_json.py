@@ -106,7 +106,7 @@ def export_combined():
 
     d_institutions = df_institutions.to_dict(orient="index")
 
-    d = {'igwn' : {"computeSites": d_compute_sites, "institutions": d_institutions}}
+    d = {'IGWN' : {"computeSites": d_compute_sites, "institutions": d_institutions}}
 
     with open("data/collaborations.json", "w") as fp:
         json.dump(d, fp)
