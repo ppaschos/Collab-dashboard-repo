@@ -85,7 +85,7 @@ def export_sites():
 
     df = pd.merge(df_ces, df_aps, how="left", left_index=True, right_index=True)
 
-    d = df.to_dict(orient="index")
+    d = df.where(pd.notnull(df), None).to_dict(orient="index")
 
     d = {"igwn": d}  # TODO this should be parsable from the csv file
 
