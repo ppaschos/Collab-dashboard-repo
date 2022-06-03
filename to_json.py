@@ -93,9 +93,30 @@ def export_sites():
         json.dump(d, fp)
 
 
+def export_combined():
+
+    df_aps = parse_aps()
+    df_ces = parse_ces()
+
+    df_compute_sites = pd.merge(df_ces, df_aps, how="left", left_index=True, right_index=True)
+
+    d_compute_sites = df_compute_sites.where(pd.notnull(df_compute_sites), None).to_dict(orient="index")
+
+    df_institutions = parse_institutes()
+
+    d_institutions = df_institutions.to_dict(orient="index")
+
+    d = {'igwn' : {"computeSites": d_compute_sites, "instiutions": d_institutions}}
+
+    with open("data/collaborations.json", "w") as fp:
+        json.dump(d, fp)
+
+
+
 def main():
     export_sites()
     export_institutes()
+    export_combined()
 
 
 if "__main__" == __name__:
