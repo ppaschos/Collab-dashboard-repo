@@ -1,7 +1,5 @@
 import pandas as pd
 import json
-import csv
-from collections import defaultdict
 
 # Points to csv snapshot of google sheets
 AP_FILE_PATH = "./files/IGWN_sites-APs.csv"
