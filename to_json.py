@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Points to csv snapshot of google sheets
-AP_FILE_PATH = "./files/IGWN_sites-APs.csv"
+AP_FILE_PATH = "./indata/igwn-ap-sites.csv"
 CE_FILE_PATH = "./indata/igwn-pool.csv"
 INSTITUTES_PATH = "./indata/igwn-sites-corrected.csv"
 

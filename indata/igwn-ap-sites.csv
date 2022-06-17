@@ -1,0 +1,11 @@
+Institute Site,Access Point,Show
+,condor-f1.ligo.caltech.edu,FALSE
+,condor-f2.ligo.caltech.edu,FALSE
+,ldas-osg-dev.ligo-wa.caltech.edu,FALSE
+LIGO-Livingston,ldas-osg.ligo-la.caltech.edu,TRUE
+LIGO-Hanford,ldas-osg.ligo-wa.caltech.edu,TRUE
+Caltech,ldas-osg.ligo.caltech.edu,TRUE
+Caltech,ldas-osg2.ligo.caltech.edu,TRUE
+Georgia Tech,osg-login2.pace.gatech.edu,TRUE
+SurfSARA,stro.nikhef.nl,TRUE
+,test-002.t2.ucsd.edu,FALSE
