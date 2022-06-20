@@ -30,8 +30,8 @@ LIGO_US_Caltech_ldas-grid,Caltech,34.137987,-118.124281,No,local
 LIGO_US_Caltech_ldas-grid_gpu,Caltech,34.137987,-118.124281,No,local
 LIGO_US_Caltech_ldas-grid-la,LIGO-Livingston,32.5843026,-88.1872474,No,local
 LIGO_US_Caltech_ldas-grid-la_gpu,LIGO-Livingston,32.5843026,-88.1872474,No,local
-LIGO_US_Caltech_ldas-grid-wa,LIGO-Hanford,41.3160082,-91.7340327,No,local
-LIGO_US_Caltech_ldas-grid-wa_gpu,LIGO-Hanford,41.3160082,-91.7340327,No,local
+LIGO_US_Caltech_ldas-grid-wa,LIGO-Hanford,46.548620,-119.539010,No,local
+LIGO_US_Caltech_ldas-grid-wa_gpu,LIGO-Hanford,46.548620,-119.539010,No,local
 LIGO_US_LSU-QB2-CE1,Louisiana State University,30.4132625,-91.182191,Yes,UW Madison
 LIGO_US_LSU_SuperMIC-CE1,Louisiana State University,30.4132625,-91.182191,Yes,UW Madison
 LIGO_US_PSU-LIGO,Pennsylvania State University,40.806956,-77.86281,Yes,UChicago
