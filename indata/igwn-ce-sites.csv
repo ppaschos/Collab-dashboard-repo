@@ -1,4 +1,4 @@
-COMPUTE ENTRY POINT (CE),Institute Site,Latitude,Longtitude,Hosted CE,CE location
+COMPUTE ENTRY POINT (CE),Institute Site,Latitude,Longitude,Hosted CE,CE location
 CMSHTPC_T2_US_Caltech_cit2_op,Caltech,34.137987,-118.124281,No,local
 CMSHTPC_T2_US_Caltech_cit_op,Caltech,34.137987,-118.124281,No,local
 CMSHTPC_T2_US_Vanderbilt_ce5_2core,Vanderbilt,36.141621,-86.796477,No,local
