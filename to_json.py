@@ -1,5 +1,4 @@
 import glob
-
 import pandas as pd
 import json
 
@@ -41,7 +40,7 @@ def parse_aps(path: str) -> pd.DataFrame:
     return df
 
 
-def parse_institutes(path: str) -> pd.DataFrame:
+def parse_institutions(path: str) -> pd.DataFrame:
 
     df = pd.read_csv(path)
 
@@ -49,7 +48,7 @@ def parse_institutes(path: str) -> pd.DataFrame:
         d = {
             "labs": list(x["Lab"].unique()),
             "latitude": x["Latitude"].unique()[0],
-            "longitude": x["Longtitude"].unique()[0],
+            "longitude": x["Longitude"].unique()[0],
             "country": x["Country"].unique()[0]
         }
 
@@ -70,11 +69,11 @@ def get_collaboration_dictionary(collaboration: str):
 
     df_aps = pd.DataFrame()
     df_ces = pd.DataFrame()
-    df_institutes = pd.DataFrame()
+    df_institutions = pd.DataFrame()
 
     ap_files_path = glob.glob(f"indata/{collaboration}-ap-sites.csv")
     ce_files_path = glob.glob(f"indata/{collaboration}-ce-sites.csv")
-    institutes_path = glob.glob(f"indata/{collaboration}-institutes.csv")
+    institutions_path = glob.glob(f"indata/{collaboration}-institutions.csv")
 
     if ap_files_path:
         df_aps = parse_aps(ap_files_path[0])
@@ -82,15 +81,16 @@ def get_collaboration_dictionary(collaboration: str):
     if ce_files_path:
         df_ces = parse_ces(ce_files_path[0])
 
-    if institutes_path:
-        df_institutes = parse_institutes(institutes_path[0])
+    if institutions_path:
+        df_institutions = parse_institutions(institutions_path[0])
 
     df_compute_sites = pd.merge(df_ces, df_aps, how="left", left_index=True, right_index=True)
     d_compute_sites = df_compute_sites.where(pd.notnull(df_compute_sites), None).to_dict(orient="index")
 
-    d_institutes = df_institutes.to_dict(orient="index")
+    d_institutions = df_institutions.to_dict(orient="index")
 
-    return {collaboration.upper(): {"computeSites": d_compute_sites, "institutions": d_institutes}}
+    return {collaboration.upper(): {"computeSites": d_compute_sites, "institutions": d_institutions}}
+
 
 def export_collaboration_data():
     """Exports the collaboration csvs in a json file"""
@@ -122,7 +122,7 @@ INSTITUTES_PATH = "indata/igwn-institutions.csv"
 def export_institutes():
     """Deprecated - Exports institutions JSON File"""  # TODO - This should be merged with the one above ( Update data )
 
-    df_institutes = parse_institutes(INSTITUTES_PATH)
+    df_institutes = parse_institutions(INSTITUTES_PATH)
 
     d = df_institutes.to_dict(orient="index")
 
